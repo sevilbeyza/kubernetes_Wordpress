@@ -4,4 +4,4 @@
 
 2-And attached it to MySQL ReplicaSet on a Persistent Volume 
 
-3-Finally Expose the WordPress through LoadBalancer service
+3-Finally Exposed the WordPress through LoadBalancer service
